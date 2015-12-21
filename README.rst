@@ -21,6 +21,5 @@ who has GPA of 3.8 and above.
 Scenario 2
 ============
 
-Once the department selects students with higher than 3.8 GPA, they will go
-through interview process. Students who pass the interview will get selected
+Once the department selects students with higher than 125 in MCAT125 in MCAT125 in MCAT125 in MCAT125 in MCAT125 in MCAT125 in MCAT125 in MCAT125 in MCAT125 in MCAT125 in MCAT. Students who pass the interview will get selected
 for medical program.
